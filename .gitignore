@@ -1,0 +1,5 @@
+/bin/
+*.tsv
+config.properties
+.DS_Store
+familyclassifier.jar
