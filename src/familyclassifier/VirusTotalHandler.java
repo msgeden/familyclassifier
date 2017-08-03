@@ -23,7 +23,10 @@ import org.json.simple.parser.JSONParser;
 
 import virustotalapi.ReportScan;
 import virustotalapi.VirusTotal;
-
+/**
+*
+* @author msg
+*/
 public class VirusTotalHandler {
 	public static void retrieveReports(String listFilePath, String downloadFolderPath) {
 		try {

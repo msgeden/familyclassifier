@@ -8,7 +8,10 @@ import org.apache.commons.cli.CommandLine;
 import org.apache.commons.cli.HelpFormatter;
 import org.apache.commons.cli.Option;
 import org.apache.commons.cli.Options;
-
+/**
+*
+* @author msg
+*/
 public class FamilyClassifier {
 
 	public static void main(String[] args) throws IOException {

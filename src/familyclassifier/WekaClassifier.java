@@ -29,7 +29,7 @@ import org.apache.commons.io.FileUtils;
 
 /**
  *
- * @author msgeden
+ * @author msg
  */
 public class WekaClassifier {
 

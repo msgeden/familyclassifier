@@ -6,9 +6,9 @@
 package familyclassifier;
 
 /**
- *
- * @author msgeden
- */
+*
+* @author msg
+*/
 public class Constants {
 	
 	public static final String[] EXTRACTION_LABELS = new String[] { "Classwise IG", "Classwise NAD", "IG", "NAD" };

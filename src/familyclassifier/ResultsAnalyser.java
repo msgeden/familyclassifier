@@ -15,16 +15,9 @@ import org.apache.commons.io.FileUtils;
 
 /**
  *
- * @author msgeden
+ * @author msg
  */
 public class ResultsAnalyser {
-//	public static void main(String[] args) {
-//
-//		for (int i = 0; i < Constants.CLASS_NAMES.length; i++)
-//			generateHeatMapDataForSelectedFeatures(
-//					"/Users/munirgeden/Desktop/data/report/json_distinctive_apicallwithargs_by_classwiseig.tsv", i);
-//
-//	}
 
 	public static void generateHeatMapDataForSelectedFeatures(String frequencyFilePath, int classIndex) {
 		// TODO Auto-generated method stub

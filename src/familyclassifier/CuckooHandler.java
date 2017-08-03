@@ -15,9 +15,9 @@ import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 
 /**
- *
- * @author msgeden
- */
+*
+* @author msg
+*/
 public class CuckooHandler {
 
 	public static void startCuckooSandbox() {

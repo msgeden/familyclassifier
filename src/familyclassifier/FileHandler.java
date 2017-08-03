@@ -24,15 +24,10 @@ import java.util.Collection;
 
 /**
  *
- * @author msgeden
+ * @author msg
  */
 public class FileHandler {
 
-//	public static void main(String[] args) throws IOException {
-//		//moveFilesFromList("/home/cuckoo/Desktop/data/metamorphic/zmist/","/home/cuckoo/Desktop/data/zmist/", "/home/cuckoo/Desktop/data/metamorphic/zmist/labels/zmist.tsv");
-//		//copyFilesFromJsons("/home/cuckoo/Desktop/data/ransomware-small/");
-//		//renameFileExtensionsInAFolder("/home/cuckoo/Desktop/data/hydracrypt/","file");
-//	}
 	private static final String configFile = "config.properties";
 
 	public static void deleteUnmatchedFiles(String fileFolderPath) {

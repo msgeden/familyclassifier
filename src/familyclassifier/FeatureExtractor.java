@@ -26,9 +26,9 @@ import org.paukov.combinatorics.ICombinatoricsVector;
 import edu.princeton.cs.algs4.Vector;
 
 /**
- *
- * @author msgeden
- */
+*
+* @author msg
+*/
 public class FeatureExtractor {
 
 	private static HashMap<String, Short[]> constructFeaturesPerSample(HashMap<String, Short[]> cumulativeFeatures,
