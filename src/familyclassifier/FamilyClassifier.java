@@ -94,9 +94,7 @@ public class FamilyClassifier {
 		//args = new String[]{"-gwf"};
 		//args = new String[]{"-cwa","apicall2tuple"};
 		
-		// args = new
-		// String[]{"-cw","all","-wt","/Users/munirgeden/Desktop/data/report/train/train_json_apicall_100_0.arff","-wv","/Users/munirgeden/Desktop/data/report/test/test_json_apicall_100_0.arff"};
-		
+	
 		try {
 			CommandLine commandLine = parser.parse(options, args);
 			if (commandLine.hasOption("h")) {
