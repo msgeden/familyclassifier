@@ -1,6 +1,6 @@
-This README file is for Malware Family Classifier as a part of Research Project at ------
-Submission date: 26/06/2017
-Created by: ---
+This README file is for Malware Family Classifier as a part of Research Project at University of Oxford
+Submission date: 15/06/2018
+Created by: Munir Geden
 
 *************************************
 Path definitions
@@ -59,7 +59,7 @@ How to classify wih Weka classifiers?
 Access to source code
 ***************************************
 Link to project's repository:
-https://bitbucket.org/-----/familyclassifier
+https://bitbucket.org/msgeden/familyclassifier
 
 For clonning the repository:
-git clone https://bitbucket.org/-----/familyclassifier.git
+git clone https://bitbucket.org/msgeden/familyclassifier.git
