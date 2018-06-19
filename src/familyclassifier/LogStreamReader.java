@@ -6,7 +6,7 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 /**
 *
-* @author msg
+* @author msgeden
 */
 public class LogStreamReader implements Runnable {
 

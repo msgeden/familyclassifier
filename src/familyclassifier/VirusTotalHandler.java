@@ -25,7 +25,7 @@ import virustotalapi.ReportScan;
 import virustotalapi.VirusTotal;
 /**
 *
-* @author msg
+* @author msgeden
 */
 public class VirusTotalHandler {
 	public static void retrieveReports(String listFilePath, String downloadFolderPath) {

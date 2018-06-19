@@ -24,7 +24,7 @@ import java.util.Collection;
 
 /**
  *
- * @author msg
+ * @author msgeden
  */
 public class FileHandler {
 

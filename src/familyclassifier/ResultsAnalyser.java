@@ -15,7 +15,7 @@ import org.apache.commons.io.FileUtils;
 
 /**
  *
- * @author msg
+ * @author msgeden
  */
 public class ResultsAnalyser {
 

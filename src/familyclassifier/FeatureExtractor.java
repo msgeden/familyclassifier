@@ -27,7 +27,7 @@ import edu.princeton.cs.algs4.Vector;
 
 /**
 *
-* @author msg
+* @author msgeden
 */
 public class FeatureExtractor {
 

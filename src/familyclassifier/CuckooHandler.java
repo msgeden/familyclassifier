@@ -16,7 +16,7 @@ import org.json.simple.parser.JSONParser;
 
 /**
 *
-* @author msg
+* @author msgeden
 */
 public class CuckooHandler {
 

@@ -7,7 +7,7 @@ package familyclassifier;
 
 /**
 *
-* @author msg
+* @author msgeden
 */
 public class Constants {
 	
